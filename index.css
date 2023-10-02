@@ -147,6 +147,7 @@ header{
     .details{
         font-size: 13px;
         padding: 12px;
+        text-align: center;
     }
     #heading2{
         font-size: 20px;
